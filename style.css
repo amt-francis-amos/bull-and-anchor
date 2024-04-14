@@ -105,6 +105,13 @@ form input{
 }
 
 
+@media(max-width:835px){
+	  .login-front{
+	    width:56%;
+	  }
+}
+
+
 
 
 /* .topspacer {
