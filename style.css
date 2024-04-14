@@ -98,6 +98,12 @@ form input{
 
 
 
+@media(max-width:992px){
+	  .login-front{
+	    width:90%;
+	  }
+}
+
 
 
 
