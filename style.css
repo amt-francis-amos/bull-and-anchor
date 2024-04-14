@@ -8,6 +8,11 @@
 }
 
 
+body{
+	overflow-x:hidden;
+}
+
+
 
 header{
 	width:100%;
@@ -94,6 +99,20 @@ form input{
   .whatsapp-btn:hover {
 	background: #128c7e;
   }
+
+
+  .footer {
+	position: absolute;
+	bottom: 20px;
+	left: 50%;
+	transform: translateX(-50%);
+  }
+  
+  .copyright {
+	font-size: 17px;
+	color: #999;
+  }
+
 
 
 
