@@ -28,7 +28,7 @@ header{
 
 .login-front{
 	width:400px;
-	height:450px;
+	height:480px;
 	background:#fff;
 	opacity:0.6;
 	z-index:1;
@@ -49,6 +49,7 @@ form input{
 	border:none;
 	border:1px solid #f5bc00;
 	border-radius:5px;
+	
 }
 
 
@@ -62,6 +63,40 @@ form input{
 }
 
 
+.links{
+	display:flex;
+	align-items:center;
+	justify-content:space-between;
+	gap:2em;
+	margin-top:1em;
+}
+
+
+.free{
+   width:100px;
+   height:40px;
+   background:#f58f00;
+   color:#fff;
+   text-align:center;
+   padding:10px;
+   border-radius:4px;
+}
+
+
+.whatsapp-btn {
+	display: inline-block;
+	padding: 10px 20px;
+	background: #25d366; 
+	text-decoration: none;
+	border-radius: 5px;
+
+	color:#fff;
+  }
+  
+  .whatsapp-btn:hover {
+	background: #128c7e;
+  }
+
 
 
 
@@ -72,8 +107,6 @@ form input{
 		 object-fit:cover;
 	  }
 }
-
-
 
 
 
