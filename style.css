@@ -102,6 +102,7 @@ form input{
 
 
   .footer {
+	width:100%;
 	position: absolute;
 	bottom: 20px;
 	left: 50%;
@@ -111,6 +112,7 @@ form input{
   .copyright {
 	font-size: 17px;
 	color: #999;
+	text-align: center;
   }
 
 
